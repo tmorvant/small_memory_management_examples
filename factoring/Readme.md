@@ -1,0 +1,1 @@
+Takes two integers of command line input in the format of "int, int" and produces the common factors in a very uncommon way.
